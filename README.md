@@ -16,4 +16,4 @@ A modern and responsive portfolio website built with HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-Add your deployed website link here.
+https://pierejohn.github.io/simons-portfolio/
